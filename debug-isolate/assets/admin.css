@@ -1,0 +1,18 @@
+/* Debug Isolate Plugin Admin Styles */
+.debug-ip-row,
+.debug-user-row {
+	margin-bottom: 6px;
+	display: flex;
+	gap: 10px;
+	align-items: center;
+}
+
+.debug-ip-row input[type="text"],
+.debug-user-row select {
+	width: 250px;
+}
+
+.plugin-use-narrative {
+	font-size: 1.2em;
+	max-width: 800px
+}
